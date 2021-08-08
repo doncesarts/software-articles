@@ -1,18 +1,18 @@
 
 # Functional Programming
-A way of writing code that focuses on using pure functions describing the relationship between their arguments and return values without creating side effects or depending on the state of an application
+A way of writing code that focuses on using pure functions describing the relationship between their arguments and return values without creating side effects or depending on the state of an application.
 
 ##  Program Paradigm
  How to write /  organize your code, how to reason about programming.
 
   - **Procedural** :
-	- Secuencial series of excecution steps/ task. 
+	- Sequencial series of excecution steps/tasks. 
 	- Do not organize the code in big artifacts. 
 	- Top to bottom code excecution.
 
   - **Object Oriented** : 
 	- Your data and logic are organised in objects, data as props, methods as behavior. 
-	- You think your code as a real life entities , defined in classes , Objects.
+	- You think your code as a real life entity, defined in classes, Objects.
 
   - **Functional**  : 
 	- Functions are the way to organize the code. 
