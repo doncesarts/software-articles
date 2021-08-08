@@ -5,7 +5,7 @@ A way of writing code that focuses on using pure functions describing the relati
 ##  Program Paradigm
  How to write /  organize your code, how to reason about programming.
 
-  - **Procedural** :
+  - **Procedure** :
 	- Sequencial series of excecution steps/tasks. 
 	- Do not organize the code in big artifacts. 
 	- Top to bottom code excecution.
